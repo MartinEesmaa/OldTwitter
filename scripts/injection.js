@@ -172,6 +172,7 @@ const LANGUAGES = [
     "id",
     "is",
     "gl",
+    "et",
 ];
 const TRANSLATORS = {
     ru: ["dimden", "https://dimden.dev/"],
@@ -252,6 +253,7 @@ const TRANSLATORS = {
         ["ikergcalvino", "https://github.com/ikergcalvino"],
         ["alvaroddiaz", "https://github.com/alvaroddiaz"],
     ],
+    et: ["Martin Eesmaa", "/martin123459"],
 };
 let LOC = {};
 let LOC_EN = {};
